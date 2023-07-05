@@ -1,0 +1,6 @@
+Para criar aplicações node: npx create-react-app <nome>
+Para iniciar: npm start
+
+nova forma -> vite
+criar projeto: npm create vite@latest
+para rodar: npm run dev
